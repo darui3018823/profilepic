@@ -8,7 +8,7 @@
 The logos used in this repository and the user profile README.md belong to their respective owners or the companies holding the rights. 
 
 For inquiries regarding the use of these logos, please contact us via our [homepage](https://daruks.com/Contact/) or by [email](mailto:contact@daruks.com).
-<br>
+<br><br>
 
 ## Trademarks and Attributions
 
@@ -58,7 +58,7 @@ For inquiries regarding the use of these logos, please contact us via our [homep
 このリポジトリ及びユーザープロフィールのREADME.mdで使用しているロゴの権利は、各種権利者様、または権利を保有している企業様に帰属します。
 
 ロゴの使用等に関するお問い合わせは、[ホームページ](https://daruks.com/Contact/)または[メール](mailto:contact@daruks.com)よりご連絡ください。
-<br>
+<br><br>
 
 ## 商標および帰属表示
 
