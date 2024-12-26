@@ -51,7 +51,7 @@ For inquiries regarding the use of these logos, please contact us via our [homep
 - **Golang (Go)**  
   Go and the Gopher logo are trademarks or registered trademarks of Google LLC.
 
-- **Git**
+- **Git**  
   Git Logo by [Jason Long](https://x.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). 
 
 # JA
