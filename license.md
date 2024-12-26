@@ -103,5 +103,5 @@ For inquiries regarding the use of these logos, please contact us via our [homep
 - **Golang (Go)**  
   GoおよびGopherロゴは、Google LLCの商標または登録商標です。
 
-- **Git**
+- **Git**  
   [Jason Long](https://x.com/jasonlong)による Git ロゴは、[Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)に基づいてライセンスされます。
