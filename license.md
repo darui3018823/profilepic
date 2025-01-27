@@ -28,6 +28,8 @@ For inquiries regarding the use of these logos, please contact us via our [homep
     Visual Studio 2022, its logo, and name are trademarks or registered trademarks of Microsoft Corporation.  
   - **Visual Studio Code**  
     Visual Studio Code, VS Code, and the Visual Studio Code icon are trademarks of Microsoft Corporation. All rights reserved.
+  - **dotNet (.NET)**  
+    The .NET name and logo are trademarks or registered trademarks of Microsoft Corporation.  
 
 - **Python**  
   The Python logo is a trademark of the Python Software Foundation, which is responsible for defending against any damaging or confusing uses of the trademark.
@@ -80,6 +82,8 @@ For inquiries regarding the use of these logos, please contact us via our [homep
     Visual Studio 2022およびそのロゴおよび名称は、Microsoft Corporationの商標または登録商標です。  
   - **Visual Studio Code**  
     Visual Studio Code, VS Code, and the Visual Studio Code icon are trademarks of Microsoft Corporation. All rights reserved.
+  - **dotNet (.NET)**  
+    .NETの名称およびロゴは、Microsoft Corporationの商標または登録商標です。  
 
 - **Python**  
   Pythonロゴは、Python Software Foundationの商標であり、商標の誤用や混乱を防ぐ責任を負っています。
