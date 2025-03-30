@@ -56,6 +56,12 @@ For inquiries regarding the use of these logos, please contact us via our [homep
 - **Git**  
   Git Logo by [Jason Long](https://x.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). 
 
+- **Tailwind CSS**  
+  The Tailwind name and logos are trademarks of Tailwind Labs Inc.
+
+- **Microsoft Blend**  
+  Microsoft Blend and its logo are trademarks or registered trademarks of Microsoft Corporation.
+
 # JA
 **免責事項**
 
@@ -109,3 +115,10 @@ For inquiries regarding the use of these logos, please contact us via our [homep
 
 - **Git**  
   [Jason Long](https://x.com/jasonlong)による Git ロゴは、[Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)に基づいてライセンスされます。
+
+- **Tailwind CSS**  
+  Tailwind CSSの名称およびロゴは、Tailwind Labs Inc.の商標または登録商標です。
+  Tailwindの名称およびロゴは、Tailwind Labs Inc.の商標または登録商標です。
+
+- **Microsoft Blend**  
+  Microsoft Blendおよびそのロゴは、Microsoft Corporationの商標または登録商標です。
